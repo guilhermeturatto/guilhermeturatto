@@ -1,4 +1,4 @@
-## Guilherme Turatto - Graduating in Mechatronic Engineer (Universidade Federal de Santa Catarina)
+## Guilherme Turatto - Graduating in Mechatronic Engineer
 
 <div align="center">
   <a href="https://github.com/guilhermeturatto">
