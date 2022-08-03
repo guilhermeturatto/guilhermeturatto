@@ -1,4 +1,4 @@
-## Guilherme Turatto - Graduating in Mechatronic Engineering
+## Guilherme Turatto
 
 <div align="center">
   <a href="https://github.com/guilhermeturatto">
