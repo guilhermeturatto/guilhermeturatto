@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/guilhermeturatto">
   <img height="150" src="https://git-stat-vercel-dv48uc6mt-guilhermeturatto.vercel.app/api?username=guilhermeturatto&show_icons=true&theme=dark&include_all_commits=true&count_private=true&exclude_repo=git-stat-vercel"/>
-  <img height="150" src="https://git-stat-vercel-dv48uc6mt-guilhermeturatto.vercel.app/api/top-langs/?username=guilhermeturatto&layout=compact&langs_count=5&theme=dark&include_all_commits=true&hide=XC&count_private=true&exclude_repo=git-stat-vercel"/>
+  <img height="150" src="https://git-stat-vercel-dv48uc6mt-guilhermeturatto.vercel.app/api/top-langs/?username=guilhermeturatto&layout=compact&langs_count=5&theme=dark&include_all_commits=true&hide=XC,XS&count_private=true&exclude_repo=git-stat-vercel"/>
 </div>
 
 ##
